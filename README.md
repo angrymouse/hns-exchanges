@@ -2,10 +2,10 @@
 Know other exchange with HNS listed? Make PR or create issue to add it to this list!
 
 ### Namebase
-- Site: [https://www.namebase.io/](https://www.namebase.io/register/np52lv)
+- Site: [namebase.io](https://www.namebase.io/register/np52lv)
 - Requires KYC: ``Partially (only if you want to withdraw HNS or buy HNS with USD)``
 - Notes: ``First exchange with HNS support, specially created for handshake, largest HNS domains markeplace``
 ### Gate.io
-- Site: [https://gate.io/](https://gate.io)
+- Site: [gate.io](https://gate.io/)
 - Requires KYC: ``Yes``
 - Notes: ``Exchange with the highest number of coins listed``
