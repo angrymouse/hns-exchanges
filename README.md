@@ -9,3 +9,7 @@ Know other exchange with HNS listed? Make PR or create issue to add it to this l
 - Site: [gate.io](https://gate.io/)
 - Requires KYC: ``Yes``
 - Notes: ``Exchange with the highest number of coins listed``
+### Hotbit.io
+- Site: [hotbit.io](https://www.hotbit.io/register?ref=4082362)
+- Requires KYC: ``No``
+- Notes: ``New and perspective cryptocurrency exchange with support of HNS``
